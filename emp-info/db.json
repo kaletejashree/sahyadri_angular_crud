@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": "7abf",
+      "firstName": "VAIBHAV",
+      "lastName": "KALE",
+      "email": "vck@gmail.com",
+      "dob": "2024-07-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "xyz",
+      "experience": 1,
+      "package": 12
+    },
+    {
+      "firstName": "ck",
+      "lastName": "vk",
+      "email": "sa@g.com",
+      "dob": "2024-07-10T18:30:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "pp",
+      "experience": 0,
+      "package": 0,
+      "id": "c462"
+    }
+  ]
+}
